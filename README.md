@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ambrish</h1>
 <h3 align="center">Having 4.5 years of experience in creating Web Design and Application Development. As part of my assignments, I have extensively worked on Angular,React,Html5,CSS,JavaScript,jQuery,Bootstrap,Nodejs,mongoDB,. I have good front-end & back-end skills in creating CRUD & SPA projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL6EomkJv5PAmjGe65xARXUDoaBse5zLORaq1d-Ylcezc2BQc5SkHYqTR7v5OIKh8MZw&usqp=CAU.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL6EomkJv5PAmjGe65xARXUDoaBse5zLORaq1d-Ylcezc2BQc5SkHYqTR7v5OIKh8MZw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrishramachandiran&label=Profile%20views&color=0e75b6&style=flat" alt="ambrishramachandiran" /> </p>
 
