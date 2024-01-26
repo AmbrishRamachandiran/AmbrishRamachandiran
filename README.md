@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambrish</h1>
 <h3 align="center">Having 4.5 years of experience in creating Web Design and Application Development. As part of my assignments, I have extensively worked on Angular,React,Html5,CSS,JavaScript,jQuery,Bootstrap,Nodejs,mongoDB,. I have good front-end & back-end skills in creating CRUD & SPA projects.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw0NpcGHdnIZ8Y4JRl-O967K&ust=1706367495851000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiA1-u0qPuDAxWEZGwGHVP1DoEQjRx6BAgAEBQ)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyL6EomkJv5PAmjGe65xARXUDoaBse5zLORaq1d-Ylcezc2BQc5SkHYqTR7v5OIKh8MZw&usqp=CAU.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrishramachandiran&label=Profile%20views&color=0e75b6&style=flat" alt="ambrishramachandiran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambrishramachandiran" alt="ambrishramachandiran" /></a> </p>
 
 - 🔭 I’m currently working in **Infosys**
 
