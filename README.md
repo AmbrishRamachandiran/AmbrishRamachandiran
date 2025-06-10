@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Experienced Web Designer & Application Developer 🌟</h3>
 
 <p align="center">
-Experienced professional with over 5 years in web and application development. Proficient in a wide range of technologies including Angular, React, HTML5, CSS, JavaScript, jQuery, Bootstrap, Node.js, and MongoDB. Passionate about building scalable, user-friendly, and high-performing applications, specializing in CRUD and single-page applications (SPA).
+Experienced professional with over 6 years in web and application development. Proficient in a wide range of technologies including Angular, React, HTML5, CSS, JavaScript, jQuery, Bootstrap, Node.js, and MongoDB. Passionate about building scalable, user-friendly, and high-performing applications, specializing in CRUD and single-page applications (SPA).
 </p>
 
 <img align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
