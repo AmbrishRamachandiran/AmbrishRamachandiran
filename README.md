@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ambrish</h1>
-<h3 align="center">🌟 Experienced Web Designer & Application Developer 🌟</h3>
+<h3 align="center">🌟 Experienced Web Designer, Application Developer & Lead Developer 🌟</h3>
 
 <p align="center">
-Experienced professional with over 6 years in web and application development. Proficient in a wide range of technologies including Angular, React, HTML5, CSS, JavaScript, jQuery, Bootstrap, Node.js, and MongoDB. Passionate about building scalable, user-friendly, and high-performing applications, specializing in CRUD and single-page applications (SPA).
+Experienced professional with over 6 years in web and application development. Proficient in a wide range of technologies including Angular, React, HTML5, CSS, JavaScript, jQuery, Bootstrap, Node.js, and MongoDB. Skilled in leading teams and delivering high-quality, scalable, and user-friendly applications. Passionate about building CRUD and single-page applications (SPA), and experienced in platform engineering with <strong>Backstage</strong>.
 </p>
 
 <img align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
@@ -10,9 +10,9 @@ Experienced professional with over 6 years in web and application development. P
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working** at <a href="https://github.com/Infosys">Infosys</a>
-- 💡 **Always learning:** Exploring new technologies like TypeScript and cloud computing.
-- 👯 **Looking to collaborate on:** Open-source projects, web applications, and innovations in front-end and back-end development.
+- 🔭 **Currently working** at <a href="https://github.com/Infosys">Infosys</a> as a **Backstage Lead Developer**
+- 💡 **Always learning:** Exploring new technologies like TypeScript, cloud computing, and developer portals with **Backstage**
+- 👯 **Looking to collaborate on:** Open-source projects, platform engineering, and innovative web and app development solutions
 - 📝 **Writing tech blogs** on <a href="https://dev.to/ambrishramachandiran">Dev.to</a>
 - ⚡ **Fun fact:** My code never crashes, it just takes a break! 😄
 
@@ -38,20 +38,23 @@ Experienced professional with over 6 years in web and application development. P
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
+  <a href="https://backstage.io/" target="_blank" rel="noreferrer">
+    <img src="https://backstage.io/img/logos/backstage-logo-icon.svg" alt="Backstage" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -76,9 +79,9 @@ Experienced professional with over 6 years in web and application development. P
 ---
 
 ### 🌟 Fun Projects
-- 🚀 Stay tuned for some exciting projects!
+- 🚀 Stay tuned for some exciting projects, including tools built with **Backstage** and team-driven innovations!
 
 ---
 
 ### 🌱 Let's Grow Together!
-Feel free to explore my repositories, connect with me, or collaborate on exciting projects. Let's build something amazing together! 🌟
+Feel free to explore my repositories, connect with me, or collaborate on exciting projects. Whether you're building developer portals, full-stack applications, or innovative tools — **let’s build something amazing together!** 🌟
