@@ -34,7 +34,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **Lead Developer at [Infosys](https://github.com/Infosys)** with **6+ years** of experience crafting web applications — and these days I spend most of my time building **Internal Developer Portals with [Backstage](https://backstage.io)**.
+I'm a **Lead Developer at [Infosys](https://github.com/Infosys)** with **7+ years** of experience crafting web applications — and these days I spend most of my time building **Internal Developer Portals with [Backstage](https://backstage.io)**.
 
 I love turning complex platform problems into clean, scalable, user‑friendly experiences, and I'm an active contributor to the **CNCF** ecosystem.
 
