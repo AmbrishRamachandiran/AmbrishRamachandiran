@@ -1,9 +1,13 @@
 <!-- ═══════════════════════════ 3D HERO ═══════════════════════════ -->
 <p align="center">
-  <a href="#impact"><img src="./assets/hero.svg" width="100%" alt="Ambrish R — Lead Developer @ Infosys · Backstage · Platform Engineering"/></a>
+  <a href="https://ambrishramachandiran.github.io"><img src="./assets/hero.svg" width="100%" alt="Ambrish R — Lead Developer @ Infosys · Backstage · Platform Engineering"/></a>
 </p>
 
 <!-- ═══════════════════════════ NAV BAR ═══════════════════════════ -->
+<p align="center">
+  <a href="https://ambrishramachandiran.github.io"><img src="https://img.shields.io/badge/Visit%20my%203D%20Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my 3D portfolio"/></a>
+</p>
+
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/About-0b1222?style=for-the-badge&logo=aboutdotme&logoColor=38bdf8" alt="About"/></a>
   <a href="#impact"><img src="https://img.shields.io/badge/Open%20Source-1e1b4b?style=for-the-badge&logo=opensourceinitiative&logoColor=38bdf8" alt="Open Source"/></a>
