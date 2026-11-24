@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+<defs><linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#36bcf7"/></linearGradient></defs>
+<style>.s{animation:sh 4s ease-in-out infinite}@keyframes sh{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}</style>
+<g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="38" letter-spacing="2">
+<text x="66" y="54" fill="#0d3b57" opacity="0.40">OPEN SOURCE IMPACT</text>
+<text x="65" y="53" fill="#0d3b57" opacity="0.42">OPEN SOURCE IMPACT</text>
+<text x="64" y="52" fill="#0d3b57" opacity="0.43">OPEN SOURCE IMPACT</text>
+<text x="63" y="51" fill="#0d3b57" opacity="0.45">OPEN SOURCE IMPACT</text>
+<text x="62" y="50" fill="#0d3b57" opacity="0.47">OPEN SOURCE IMPACT</text>
+<text x="61" y="49" fill="#0d3b57" opacity="0.48">OPEN SOURCE IMPACT</text>
+<text x="60" y="48" fill="url(#t)">OPEN SOURCE IMPACT</text></g>
+<g class="s"><polygon points="12.0,43.0 26.0,50.0 26.0,34.0 12.0,27.0" fill="#1f6f99"/><polygon points="26.0,50.0 40.0,43.0 40.0,27.0 26.0,34.0" fill="#2f9fd6"/><polygon points="26.0,34.0 40.0,27.0 26.0,20.0 12.0,27.0" fill="#9be7ff"/></g>
+</svg>
