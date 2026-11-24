@@ -1,22 +1,16 @@
 <!-- ═══════════════════════════ 3D HERO ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ambrish R — Lead Developer @ Infosys · Backstage · Platform Engineering"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+Internal+Developer+Portals+with+Backstage;97%2B+merged+PRs+across+CNCF+projects;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <a href="#impact"><img src="./assets/hero.svg" width="100%" alt="Ambrish R — Lead Developer @ Infosys · Backstage · Platform Engineering"/></a>
 </p>
 
 <!-- ═══════════════════════════ NAV BAR ═══════════════════════════ -->
 <p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About-0f2027?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About"/></a>
-  <a href="#impact"><img src="https://img.shields.io/badge/Open%20Source-203a43?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-2c5364?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/></a>
-  <a href="#contrib"><img src="https://img.shields.io/badge/3D%20Contributions-2c5364?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Contributions"/></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-203a43?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Analytics"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Contact-0f2027?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact"/></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About-0b1222?style=for-the-badge&logo=aboutdotme&logoColor=38bdf8" alt="About"/></a>
+  <a href="#impact"><img src="https://img.shields.io/badge/Open%20Source-1e1b4b?style=for-the-badge&logo=opensourceinitiative&logoColor=38bdf8" alt="Open Source"/></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0c4a6e?style=for-the-badge&logo=stackshare&logoColor=38bdf8" alt="Tech Stack"/></a>
+  <a href="#contrib"><img src="https://img.shields.io/badge/3D%20Contributions-0c4a6e?style=for-the-badge&logo=threedotjs&logoColor=38bdf8" alt="3D Contributions"/></a>
+  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-1e1b4b?style=for-the-badge&logo=githubsponsors&logoColor=38bdf8" alt="Analytics"/></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Contact-0b1222?style=for-the-badge&logo=maildotru&logoColor=38bdf8" alt="Contact"/></a>
 </p>
 
 <p align="center">
@@ -30,7 +24,7 @@
 
 <!-- ═══════════════════════════ HERO / ABOUT ═══════════════════════════ -->
 <a name="about"></a>
-<img src="./assets/h-about.svg" height="52" alt="About me"/>
+<img src="./assets/h-about.svg" width="100%" alt="About me"/>
 
 <table>
 <tr>
@@ -56,7 +50,7 @@ I love turning complex platform problems into clean, scalable, user‑friendly e
 
 <!-- ═══════════════════════════ IMPACT NUMBERS ═══════════════════════════ -->
 <a name="impact"></a>
-<img src="./assets/h-impact.svg" height="52" alt="Open source impact"/>
+<img src="./assets/h-impact.svg" width="100%" alt="Open source impact"/>
 
 <p align="center">
   <img src="./assets/stats.svg" width="100%" alt="97+ merged PRs · 77 Backstage core PRs · 5+ CNCF/OSS projects · 7+ years of experience"/>
@@ -117,7 +111,7 @@ I love turning complex platform problems into clean, scalable, user‑friendly e
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 <a name="stack"></a>
-<img src="./assets/h-stack.svg" height="52" alt="Tech stack"/>
+<img src="./assets/h-stack.svg" width="100%" alt="Tech stack"/>
 
 <table align="center">
 <tr>
@@ -143,14 +137,14 @@ I love turning complex platform problems into clean, scalable, user‑friendly e
 
 <!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
 <a name="contrib"></a>
-<img src="./assets/h-contrib.svg" height="52" alt="3D contributions"/>
+<img src="./assets/h-contrib.svg" width="100%" alt="3D contributions"/>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
 </p>
 
 <a name="analytics"></a>
-<img src="./assets/h-analytics.svg" height="52" alt="GitHub analytics"/>
+<img src="./assets/h-analytics.svg" width="100%" alt="GitHub analytics"/>
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmbrishRamachandiran&theme=github_dark" alt="GitHub Stats"/>
@@ -168,7 +162,7 @@ I love turning complex platform problems into clean, scalable, user‑friendly e
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 <a name="connect"></a>
-<img src="./assets/h-connect.svg" height="52" alt="Let's connect"/>
+<img src="./assets/h-connect.svg" width="100%" alt="Let's connect"/>
 
 <p align="center">
   Whether it's developer portals, full‑stack apps, or open‑source tooling —<br/>
